@@ -73,7 +73,7 @@
                             <a href="edit.php?id=<?php echo $data['id']; ?>" class="btn btn-success">Edit</a> ||
                             <input type="hidden" name="id" value="<?php echo $data['id']; ?>">
                             <input type="hidden" name="aksi" value="delete">
-                            <button type="submit" class="btn btn-danger" name="save" onclick="return confirm('Apakah Anda Yakin Mau menghapus data ini ?')">
+                            <button type="submit" class="btn btn-danger" name="save" onclick="return confirm('Apakah Anda Yakin Akan menghapus data ini ?')">
                                 Delete
                             </button>
                            </form>
