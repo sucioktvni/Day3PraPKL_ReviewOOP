@@ -69,7 +69,7 @@
                         <td>
                            
                             <form action="proses.php" method="post">
-                            <a href="show.php?id=<?php echo $data['id']; ?>" class="btn btn-warning">Tampilkan</a> ||
+                            <a href="show.php?id=<?php echo $data['id']; ?>" class="btn btn-warning">Show</a> ||
                             <a href="edit.php?id=<?php echo $data['id']; ?>" class="btn btn-success">Edit</a> ||
                             <input type="hidden" name="id" value="<?php echo $data['id']; ?>">
                             <input type="hidden" name="aksi" value="delete">
