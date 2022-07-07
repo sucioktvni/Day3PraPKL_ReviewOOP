@@ -13,6 +13,7 @@ Kelebihan OOP
 Membangun program pada modul kerja yang memungkinkan berkomunikasi satu sama lain. ...
 Bahasa OOP (Object Oriented Programming) memungkinkan kamu memecah program menjadi program berukuran bit yang dapat diselesaikan dengan mudah.</p>
 <p>Kucing Persia Lucu</p>
+<p>ku punya kucing</p>
 
 </body>
 </html>
