@@ -8,5 +8,9 @@
 </head>
 <body>
     <p>object-oriented programming atau OOP adalah suatu metode pemrograman yang berorientasi pada objek.</p>
+    <p>Apa keuntungan menggunakan OOP?
+Kelebihan OOP
+Membangun program pada modul kerja yang memungkinkan berkomunikasi satu sama lain. ...
+Bahasa OOP (Object Oriented Programming) memungkinkan kamu memecah program menjadi program berukuran bit yang dapat diselesaikan dengan mudah.</p>
 </body>
 </html>
